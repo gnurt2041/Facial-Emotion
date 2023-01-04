@@ -5,7 +5,7 @@ The objective of the project is to detect facial expression using image dataset.
 
 The training archive contains 7 different type of human emotions
 
-![alt text]()
+![alt text](https://github.com/gnurt1402/Facial-Emotion/blob/b7f33ecbc6730f2c84711a223caf2ad8608823c9/images/1-Figure1-1.png)
 
 
 **Dataset link:** https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset
