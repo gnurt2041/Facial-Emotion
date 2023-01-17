@@ -36,6 +36,7 @@ main/
 <li>keras
 <li>tensorflow
 <li>scikit-learn
+<li>japanize-matplotlib
 
 # Neural Network
 
