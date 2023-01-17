@@ -41,4 +41,4 @@ main/
 
 <li>CNN Architecture
   
-**Accuracy:** 63.7%
+**Accuracy:** 65.5% (v0: 63.7%)
