@@ -5,8 +5,7 @@ The objective of the project is to detect facial expression using image dataset.
 
 The training archive contains 7 different type of human emotions
 
-![alt text](https://github.com/gnurt1402/Facial-Emotion/blob/b7f33ecbc6730f2c84711a223caf2ad8608823c9/images/1-Figure1-1.png)
-
+<img align='center' src="https://github.com/gnurt2041/Facial-Emotion/blob/main/images/1-Figure1-1.png" width="700">
 
 **Dataset link:** https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset
 
@@ -41,5 +40,10 @@ main/
 # Neural Network
 
 <li>CNN Architecture
-  
+
+<h2><img align='center' src="https://github.com/gnurt2041/Facial-Emotion/blob/main/images/plotcnn.png" width="700"><h2>
+
+# Result
+<img align='center' src="https://github.com/gnurt2041/Facial-Emotion/blob/main/images/predict.jpg" width="700">
+
 **Accuracy:** 63.1%
