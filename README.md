@@ -44,9 +44,6 @@ main/
 <h2><img align='center' src="https://github.com/gnurt2041/Facial-Emotion/blob/main/images/plotcnn.png" width="700"><h2>
 
 # Result
-<img align='center' src="https://github.com/gnurt2041/Facial-Emotion/blob/main/images/predict.jpg" width="700">
-## In video
-	
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+<h3><img align='center' src="https://github.com/gnurt2041/Facial-Emotion/blob/main/images/predict.jpg" width="700"><h3>
 
 **Accuracy:** ~63.2% 
