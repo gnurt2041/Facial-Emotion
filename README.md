@@ -45,7 +45,8 @@ main/
 
 # Result
 <img align='center' src="https://github.com/gnurt2041/Facial-Emotion/blob/main/images/predict.jpg" width="700">
-
-https://user-images.githubusercontent.com/71776470/213495028-378ba459-5385-469e-af35-b5dcd10a0a6b.mp4
+## In video
+	
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 **Accuracy:** ~63.2% 
