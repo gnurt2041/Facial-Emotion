@@ -46,6 +46,6 @@ main/
 # Result
 <img align='center' src="https://github.com/gnurt2041/Facial-Emotion/blob/main/images/predict.jpg" width="700">
 
-<video src='https://user-images.githubusercontent.com/71776470/213495028-378ba459-5385-469e-af35-b5dcd10a0a6b.mp4' width=700/>
+https://user-images.githubusercontent.com/71776470/213495028-378ba459-5385-469e-af35-b5dcd10a0a6b.mp4
 
 **Accuracy:** ~63.2% 
